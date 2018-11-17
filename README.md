@@ -1,7 +1,7 @@
 # Mockiato UX
 
 [![Build Status](https://travis-ci.com/otter42/mockiato-ux.svg?token=yX6AH4fPLQfx9j596X27&branch=master)](https://travis-ci.com/otter42/mockiato-ux) 
-[![DeepScan grade](https://deepscan.io/api/teams/2522/projects/3661/branches/32116/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2522&pid=3661&bid=32116)
+[![DeepScan grade](https://deepscan.io/api/teams/2522/projects/3661/branches/32116/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=2522&pid=3661&bid=32116) [![Greenkeeper badge](https://badges.greenkeeper.io/otter42/mockiato-ux.svg)](https://greenkeeper.io/)
 
 This project is an SPA to be used with the [Mockiato](https://github.com/Optum/mockiato) web-based service virtualization platform.  It's goal is to provide
 a user-centric experience and stream-line the presentation and modification of information in the Mockiato system.  It is intended as a replacement for the 
