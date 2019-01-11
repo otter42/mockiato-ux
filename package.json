@@ -24,7 +24,7 @@
     "@datorama/akita": "^1.22.1",
     "@types/auth0-js": "^8.11.7",
     "ag-grid-angular": "^19.1.2",
-    "ag-grid-community": "^19.1.4",
+    "ag-grid-community": "^20.0.0",
     "auth0-js": "^9.8.2",
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
