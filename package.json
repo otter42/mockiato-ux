@@ -28,7 +28,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.12",
     "@fortawesome/free-regular-svg-icons": "^5.6.3",
     "@fortawesome/free-solid-svg-icons": "^5.6.3",
-    "@types/auth0-js": "^8.11.8",
+    "@types/auth0-js": "^9.10.0",
     "@types/chance": "^1.0.1",
     "ag-grid-angular": "^20.0.0",
     "ag-grid-community": "^20.0.0",
