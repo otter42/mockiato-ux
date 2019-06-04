@@ -30,7 +30,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.6.3",
     "@types/auth0-js": "^8.11.8",
     "@types/chance": "^1.0.1",
-    "ag-grid-angular": "^20.0.0",
+    "ag-grid-angular": "^21.0.0",
     "ag-grid-community": "^20.0.0",
     "auth0-js": "^9.9.0",
     "bootstrap": "^4.2.1",
